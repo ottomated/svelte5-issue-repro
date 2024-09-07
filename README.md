@@ -1,1 +1,1 @@
-[![alt text](https://raw.githubusercontent.com/ottomated/svelte5-hmr-bug/main/banner.svg)](https://example.com)
+[![alt text](https://raw.githubusercontent.com/ottomated/svelte5-issue-repro/main/banner.svg)](https://example.com)
