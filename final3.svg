@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1949" height="552">
 	<style>
-		@media (prefers-color-scheme: light) {
 		#h1 {
 		fill: #4a4a55;
 		}
 		#h2 {
 		fill: #565656;
-		}
 		}
 		@media (prefers-color-scheme: dark) {
 		#h1 {
